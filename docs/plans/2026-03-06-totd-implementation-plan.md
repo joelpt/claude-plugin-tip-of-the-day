@@ -30,7 +30,7 @@ Infrastructure/config task - no TDD needed.
   "version": "0.1.0",
   "description": "Claude Code intelligence briefing - delivers curated tips about features, plugins, skills, and best practices at session start",
   "author": {
-    "name": "Joel Thor"
+    "name": "Joel Thornton"
   },
   "license": "MIT",
   "keywords": ["tips", "productivity", "discovery", "learning"]
@@ -45,7 +45,7 @@ Infrastructure/config task - no TDD needed.
   "name": "totd-dev",
   "description": "Development marketplace for tip-of-the-day plugin",
   "owner": {
-    "name": "Joel Thor"
+    "name": "Joel Thornton"
   },
   "plugins": [
     {
