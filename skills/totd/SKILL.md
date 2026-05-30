@@ -1,6 +1,6 @@
 ---
 name: totd
-description: Show tip of the day, browse tips, request topic-specific tips, force regeneration, or view stats. Use when user asks about tips, wants productivity advice, or says /totd.
+description: Tip of the day & productivity tips
 ---
 
 # Tip of the Day

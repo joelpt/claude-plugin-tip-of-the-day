@@ -1,6 +1,6 @@
 {
   "name": "tip-of-the-day",
-  "version": "2026.05.30.1",
+  "version": "2026.05.30.2",
   "description": "Claude Code intelligence briefing - delivers curated tips about features, plugins, skills, and best practices at session start",
   "author": {
     "name": "Joel Thornton"
